@@ -1,14 +1,36 @@
 {
-  "posts": [
+  "data": [
     {
-      "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "name": "Alok",
+      "email": "alokkumar@",
+      "phone": "7749",
+      "gender": "male",
+      "hobbies": "gardening",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+      "name": "xcasc",
+      "email": "sdcds",
+      "phone": "sdcds",
+      "gender": "male",
+      "hobbies": "Gardening",
+      "id": 2
+    },
+    {
+      "name": "ganesh",
+      "email": "ganeshmail@gmail.com",
+      "phone": "5486464",
+      "gender": "male",
+      "hobbies": "Gardening",
+      "id": 3
+    },
+    {
+      "name": "Aditya",
+      "email": "adi@gamil",
+      "phone": "515",
+      "gender": "male",
+      "hobbies": "Gardening",
+      "id": 4
     }
   ]
 }
